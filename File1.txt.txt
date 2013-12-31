@@ -3,3 +3,5 @@ some text
 additional change to file 1
 
 change 3
+
+stash change again
