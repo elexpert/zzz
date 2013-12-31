@@ -1,0 +1,6 @@
+this is file 3
+
+stashed change to file 3
+
+
+yo this is the non dogg change
